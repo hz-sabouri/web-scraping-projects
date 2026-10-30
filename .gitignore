@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated scraper output
+sistani/sistani_urls.csv
+sistani/sistani_qa_urls.csv
+sistani/sistani_data.json
+sistani/sistani_data.txt
+sistani/sistani_qa_data.json
+sistani/sistani_all.json
+codeyad/codeyad_info.csv
+codeyad/images/
+codeyad/*.jpg
